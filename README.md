@@ -1,6 +1,7 @@
 ### Connect with Me on Social Network
 
 * [YouTube](http://youtube.com/dataprofessor/): http://youtube.com/dataprofessor/
+* [Medium](https://medium.com/@chanin.nantasenamat): https://medium.com/@chanin.nantasenamat
 * [Website](http://dataprofessor.org/): http://dataprofessor.org/ (Under construction)
 * [LinkedIn](https://www.linkedin.com/company/dataprofessor/): https://www.linkedin.com/company/dataprofessor/
 * [Twitter](https://twitter.com/thedataprof): https://twitter.com/thedataprof
