@@ -1,6 +1,6 @@
 ### Connect with Me on Social Network
 
-* ![Data Professor @ YouTube](https://raw.githubusercontent.com/dataprofessor/SuperTinyIcons/master/images/svg/youtube.svg =20x "Data Professor @ YouTube") [YouTube](http://youtube.com/dataprofessor/): http://youtube.com/dataprofessor/
+* ![Data Professor @ YouTube](https://raw.githubusercontent.com/dataprofessor/SuperTinyIcons/master/images/svg/youtube.svg "Data Professor @ YouTube" =20x20) [YouTube](http://youtube.com/dataprofessor/): http://youtube.com/dataprofessor/
 * [Data Professor Newsletter](http://newsletter.dataprofessor.org/): http://newsletter.dataprofessor.org/
 * [Medium](https://medium.com/@chanin.nantasenamat): https://medium.com/@chanin.nantasenamat
 * [Website](http://dataprofessor.org/): http://dataprofessor.org/ (Under construction)
