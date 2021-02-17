@@ -2,7 +2,7 @@
 
 * <a href="https://www.youtube.com/dataprofessor"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="50"/> [YouTube](http://youtube.com/dataprofessor/): http://youtube.com/dataprofessor/
 * [Newsletter](http://newsletter.dataprofessor.org/): http://newsletter.dataprofessor.org/
-* [Medium](https://medium.com/@chanin.nantasenamat): https://medium.com/@chanin.nantasenamat
+* <a href="https://medium.com/@chanin.nantasenamat"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" width="35"/>[Medium](https://medium.com/@chanin.nantasenamat): https://medium.com/@chanin.nantasenamat
 * [Website](http://dataprofessor.org/): http://dataprofessor.org/ (Under construction)
 * [LinkedIn](https://www.linkedin.com/company/dataprofessor/): https://www.linkedin.com/company/dataprofessor/
 * [Twitter](https://twitter.com/thedataprof): https://twitter.com/thedataprof
