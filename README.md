@@ -9,9 +9,14 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&style=social)](https://medium.com/@chanin.nantasenamat)
 
 * [Newsletter](http://newsletter.dataprofessor.org/): http://newsletter.dataprofessor.org/
-* <a href="https://medium.com/@chanin.nantasenamat"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" height="14"/> [Medium](https://medium.com/@chanin.nantasenamat): https://medium.com/@chanin.nantasenamat
+
 * [Website](http://dataprofessor.org/): http://dataprofessor.org/ (Under construction)
 * [LinkedIn](https://www.linkedin.com/company/dataprofessor/): https://www.linkedin.com/company/dataprofessor/
 * [FaceBook](http://facebook.com/dataprofessor/): http://facebook.com/dataprofessor/
 * [GitHub](https://github.com/dataprofessor/): https://github.com/dataprofessor/
 * [Instagram](https://www.instagram.com/data.professor/): https://www.instagram.com/data.professor/
+
+**Learn Python and R for FREE**
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.youtube.com/playlist?list=PL2WsO1N8GK8vMMPQaux9PZaAXBGV7absc)
+
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.youtube.com/playlist?list=PL2WsO1N8GK8v9xaNwbR1tiGH9lO4epcjg)
