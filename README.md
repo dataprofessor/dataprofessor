@@ -19,7 +19,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&style=social&logo=instagram&logoColor=white)](https://www.instagram.com/data.professor/)
 
 
-
+[![Newsletter](https://img.shields.io/badge/Newsletter-3A8EED?style=for-the-badge&style=social&logoColor=white)](http://newsletter.dataprofessor.org/)
 
 * [Newsletter](http://newsletter.dataprofessor.org/): http://newsletter.dataprofessor.org/
 * [Website](http://dataprofessor.org/): http://dataprofessor.org/ (Under construction)
