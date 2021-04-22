@@ -6,6 +6,7 @@
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee--yellow.svg?logo=buy-me-a-coffee&logoColor=orange&style=social)](https://www.buymeacoffee.com/dataprofessor)
 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&style=social)](https://medium.com/@chanin.nantasenamat)
 
 * [Newsletter](http://newsletter.dataprofessor.org/): http://newsletter.dataprofessor.org/
 * <a href="https://medium.com/@chanin.nantasenamat"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" height="14"/> [Medium](https://medium.com/@chanin.nantasenamat): https://medium.com/@chanin.nantasenamat
