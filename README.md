@@ -1,4 +1,6 @@
-### Welcome to the Data Professor GitHub repo!
+<a href="https://www.youtube.com/dataprofessor?sub_confirmation=1">
+  <img width="100%" src="https://github.com/dataprofessor/dataprofessor/raw/master/Twitter-Channel-Art.jpg">
+</a>
 
 🔴 **Support my work:**
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee--yellow.svg?logo=buy-me-a-coffee&logoColor=orange&style=social)](https://www.buymeacoffee.com/dataprofessor)
