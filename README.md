@@ -2,6 +2,10 @@
   <img width="100%" src="https://github.com/dataprofessor/dataprofessor/raw/master/Twitter-Channel-Art.jpg">
 </a>
 
+## **Biography**
+
+Chanin Nantasenamat, Ph.D. is a Developer Advocate, YouTuber ("Data Professor" channel) and ex-Professor of Bioinformatics. He creates educational video and written contents about data science, machine learning and bioinformatics on YouTube and various blogging platforms.
+
 ## **Support my work:**
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee--yellow.svg?logo=buy-me-a-coffee&logoColor=orange&style=social)](https://www.buymeacoffee.com/dataprofessor)
 
