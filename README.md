@@ -4,7 +4,7 @@
 
 ## **Biography**
 
-Chanin Nantasenamat, Ph.D. is a Developer Advocate, YouTuber ("Data Professor" channel) and ex-Professor of Bioinformatics. He creates educational video and written contents about data science, machine learning and bioinformatics on YouTube and various blogging platforms.
+Chanin Nantasenamat, Ph.D. is a Developer Advocate, YouTuber ("Data Professor" channel) and ex-Professor of Bioinformatics. He creates educational video (>300 videos) and written (~80 blogs) contents about data science, machine learning and bioinformatics on YouTube and various blogging platforms. He's also published >150 research/review articles in peer-review journals at the interface of machine learning, biology and chemistry for exploring the underlying origins of protein function where such understanding holds great implication for drug discovery.
 
 ## **Support my work:**
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee--yellow.svg?logo=buy-me-a-coffee&logoColor=orange&style=social)](https://www.buymeacoffee.com/dataprofessor)
