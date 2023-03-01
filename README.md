@@ -26,4 +26,4 @@ Chanin Nantasenamat, Ph.D. is a Developer Advocate, YouTuber ("Data Professor" c
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&style=social&logo=facebook&logoColor=white)](http://facebook.com/dataprofessor/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&style=social&logo=instagram&logoColor=white)](https://www.instagram.com/data.professor/)
 
-<a href="https://app.daily.dev/dataprofessor"><img src="https://api.daily.dev/devcards/2e955db0a62b46f29752c1cb38d39ab2.png?r=6l2" width="400" alt="Chanin Nantasenamat's Dev Card"/></a>
+<a href="https://app.daily.dev/dataprofessor"><img src="https://api.daily.dev/devcards/2e955db0a62b46f29752c1cb38d39ab2.png?r=6l2" width="400" alt="Chanin Nantasenamat's Dev Card" align="right"/></a>
