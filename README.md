@@ -6,6 +6,8 @@
 
 Chanin Nantasenamat, Ph.D. is a Developer Advocate, YouTuber ("Data Professor" channel) and ex-Professor of Bioinformatics. He creates educational video (>300 videos) and written (~80 blogs) contents about data science, machine learning and bioinformatics on YouTube and various blogging platforms. He's also published >150 research/review articles in peer-review journals at the interface of machine learning, biology and chemistry for exploring the underlying origins of protein function where such understanding holds great implication for drug discovery.
 
+<a href="https://app.daily.dev/dataprofessor"><img src="https://api.daily.dev/devcards/2e955db0a62b46f29752c1cb38d39ab2.png?r=6l2" width="400" alt="Chanin Nantasenamat's Dev Card" align="right"/></a>
+
 ## **Support my work:**
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee--yellow.svg?logo=buy-me-a-coffee&logoColor=orange&style=social)](https://www.buymeacoffee.com/dataprofessor)
 
@@ -25,5 +27,3 @@ Chanin Nantasenamat, Ph.D. is a Developer Advocate, YouTuber ("Data Professor" c
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/dataprofessor/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&style=social&logo=facebook&logoColor=white)](http://facebook.com/dataprofessor/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&style=social&logo=instagram&logoColor=white)](https://www.instagram.com/data.professor/)
-
-<a href="https://app.daily.dev/dataprofessor"><img src="https://api.daily.dev/devcards/2e955db0a62b46f29752c1cb38d39ab2.png?r=6l2" width="400" alt="Chanin Nantasenamat's Dev Card" align="right"/></a>
